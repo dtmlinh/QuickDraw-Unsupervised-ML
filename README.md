@@ -1,6 +1,5 @@
-# QuickDraw-Unsupervised-ML
+## QuickDraw-Unsupervised-ML Abstract
 
-# Abstract
 Visual information perception remains a central task of machine
 learning models. Image recognition has had significant
 progress in the past decade, and yet actual human perception
@@ -22,4 +21,4 @@ that future work can explore self-supervised learning techniques
 on sketches recognition tasks and investigate better ways
 to use the temporal stroke data of sketches.
 
-### Index Terms: sketch recognition, image recognition, selfsupervised learning, pretext task, deep learning
+Index Terms: sketch recognition, image recognition, selfsupervised learning, pretext task, deep learning
