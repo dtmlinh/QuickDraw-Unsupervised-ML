@@ -1,4 +1,4 @@
-## QuickDraw-Unsupervised-ML Abstract
+## QuickDraw-Unsupervised-ML
 
 Visual information perception remains a central task of machine
 learning models. Image recognition has had significant
