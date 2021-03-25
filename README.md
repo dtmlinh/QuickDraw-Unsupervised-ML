@@ -24,4 +24,6 @@ to use the temporal stroke data of sketches.
 
 Index Terms: sketch recognition, image recognition, selfsupervised learning, pretext task, deep learning
 
+### Authors: Linh Dinh, Xingyu Wang
+
 ### Full Paper: [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/7438cd41051587dc117b377e9d3e6790bef63226/Unsupervised_Final_Project_Paper.pdf)
